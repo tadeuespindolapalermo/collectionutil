@@ -1,0 +1,19 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(­ªô¢ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùî‘õúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùî‘õúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¬ñ¿Œ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(õàÂÛ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(îŒ‘Šşÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(œ’ê²ıÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(«‡Øº
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÍªÍ
+M
+java:S1144"2Remove this unused private "removeElement" method.(„Õç şÿÿÿÿ
+L
+java:S1144"6Remove this unused private "collectionIsEmpty" method.(ê—‡ş
+O
+java:S1144'"9Remove this unused private "collectionIsNotEmpty" method.(Í§Õ„
+L
+java:S1144/"6Remove this unused private "getSizeCollection" method.(ñ°«Ó
